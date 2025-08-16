@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+aside{
+    border: 1px solid transparent;
+    width: 321px;
+    transform: translate(1045px, 0px);
+    height: 607px;
+    background-color: #6bb0f5;
+    box-shadow: -4px 9px 10px 0px #0000008c;
+
+}

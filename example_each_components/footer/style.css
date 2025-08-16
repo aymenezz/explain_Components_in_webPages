@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: brown;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
+.sidebar{
+    position: absolute;
+    background-color: blue;
+    transform: translate(32.7cm, 0px);
+    width: 130px;
+    height: 547px;
+    text-align: center;
+}
+.content{
+    background-color: green;
+    height: 470px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 77px;
+    text-align: center;
+}
