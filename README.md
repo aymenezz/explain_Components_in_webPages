@@ -39,6 +39,7 @@ it like: <br>
 
 ![footer](https://github.com/aymenezz/explain_Components_in_webPages/blob/main/example_each_components/footer/Annotation%202025-08-16%20203908.png)
 
+![components image](https://github.com/aymenezz/explain_Components_in_webPages/blob/main/picture/components.png)
 
 
 to more information Visit this web site. [medium](https://medium.com/tylerdi/website-design-101-essential-terms-64bc4a52847f)
